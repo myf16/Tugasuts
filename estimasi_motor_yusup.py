@@ -11,8 +11,6 @@ Kelas:Pagi B
 Nim:221351076
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
 
 """# Deskripsi library yang digunakan"""
 
